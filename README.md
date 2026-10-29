@@ -42,6 +42,10 @@ By auto-discovering services on your systems, portracker provides a live, accura
 
 Deployment is designed to be simple using Docker.
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/portracker/)
+
 ### Quick Get Started
 
 **Using Docker Compose:**
